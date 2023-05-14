@@ -102,6 +102,6 @@ If you have any questions about the project please contact me through [my Github
 
 The location of the project [on GitHub](https://github.com/voi-jankowski/e-commerce-back-end).
 
-The walkthrough video can be accessed on [here](https://drive.google.com/file/d/1NF7FVWBMCj04XLL_RUYuRwDLbTGPOLmZ/view).
+The walkthrough video can be accessed on [here](https://drive.google.com/file/d/1kvIoDzqoPxlxQgBIaNBmxJ0PLiFMlkSh/view).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
