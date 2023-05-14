@@ -53,7 +53,21 @@ Once the server is running, you can use an API testing tool such as Insomnia or 
 - `/api/categories`: GET, POST, PUT, DELETE
 - `/api/tags`: GET, POST, PUT, DELETE
 
-For example, to get all products, send a GET request to `/api/products`. To add a new product, send a POST request to `/api/products` with the product data in the request body.
+For example, to get all products, send a GET request to `/api/products`.
+
+![Getting all products.](./assets/e-commerce-1.png)
+
+To add a new product, send a POST request to `/api/products` with the product data in the request body.
+
+![Adding a new product.](./assets/e-commerce-2.png)
+
+To update a product, send PUT request to `/api/products/` followed by the id of the desired product and in the request body the keys with new updated values.
+
+![Updating a product.](./assets/e-commerce-3.png)
+
+To delete a product send DEL request to `/api/products/` followed by the id of the undesired product.
+
+![Updating a product.](./assets/e-commerce-4.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
