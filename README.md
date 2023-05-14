@@ -29,15 +29,17 @@ The project creates a comprehensive back-end for an e-commerce website. It was b
    npm install
    ```
 
-3. Create the database using the `schema.sql` file located in the `db` folder.
+3. Rrename the `.env_EXAMPLE` file to `.env` and update the `DB_USER` and `DB_PASSWORD` variables with your own MySQL username and password, respectively.
 
-4. Seed the database with sample data with the command
+4. Create the database using the `schema.sql` file located in the `db` folder.
+
+5. Seed the database with sample data with the command
 
    ```sh
    npm run seed
    ```
 
-5. Initiate the server
+6. Initiate the server
 
    ```sh
    npm start
